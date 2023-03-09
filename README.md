@@ -1,0 +1,2 @@
+# geojson-compressor
+Compress GeoJson
